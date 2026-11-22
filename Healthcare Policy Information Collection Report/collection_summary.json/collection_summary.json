@@ -1,0 +1,74 @@
+[
+  {
+    "source": "cms_newsroom",
+    "category": "reimbursement",
+    "region": "US",
+    "status": "ok",
+    "chars": 882,
+    "records": 3,
+    "error": null
+  },
+  {
+    "source": "fda_press",
+    "category": "drug_device_regulation",
+    "region": "US",
+    "status": "ok",
+    "chars": 881,
+    "records": 3,
+    "error": null
+  },
+  {
+    "source": "hhs_press",
+    "category": "government_notification",
+    "region": "US",
+    "status": "ok",
+    "chars": 625,
+    "records": 2,
+    "error": null
+  },
+  {
+    "source": "mohfw_notices",
+    "category": "government_notification",
+    "region": "IN",
+    "status": "ok",
+    "chars": 877,
+    "records": 3,
+    "error": null
+  },
+  {
+    "source": "nha_pmjay",
+    "category": "reimbursement",
+    "region": "IN",
+    "status": "ok",
+    "chars": 658,
+    "records": 2,
+    "error": null
+  },
+  {
+    "source": "cdsco_notices",
+    "category": "drug_device_regulation",
+    "region": "IN",
+    "status": "ok",
+    "chars": 613,
+    "records": 2,
+    "error": null
+  },
+  {
+    "source": "irdai_circulars",
+    "category": "reimbursement",
+    "region": "IN",
+    "status": "ok",
+    "chars": 595,
+    "records": 2,
+    "error": null
+  },
+  {
+    "source": "who_news",
+    "category": "public_health_guidance",
+    "region": "GLOBAL",
+    "status": "ok",
+    "chars": 620,
+    "records": 2,
+    "error": null
+  }
+]
